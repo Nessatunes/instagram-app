@@ -1,4 +1,5 @@
 # React + Vite - Instagram Fictício
+[![Netlify Status](https://api.netlify.com/api/v1/badges/260ce272-1c71-4a76-9f96-24dc65816393/deploy-status)](https://app.netlify.com/sites/celadon-lebkuchen-ec326c/deploys)
 
 Instagram Fictício com tema Dark e Light
 
